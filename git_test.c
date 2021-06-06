@@ -6,6 +6,6 @@ int main()
 {
 
     printf("Hello!, trying to learn git commands\n :) ");
-    printf("Hey this is making some sense now\n");
+    printf("Hey this is making some sense \n");
     return 0;
 }
